@@ -1,6 +1,7 @@
 # Azure Cloud Concepts and Projects
 
-<p style="color:red; font-weight: bold;">🚨 This project is currently in progress</p>
+![Status](https://img.shields.io/badge/Status-In_Progress-red?style=for-the-badge)
+<!-- <p style="color:red; font-weight: bold;">🚨 This project is currently in progress</p> -->
 
 ### Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
 - What is cloud ?
